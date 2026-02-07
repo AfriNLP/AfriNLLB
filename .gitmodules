@@ -1,0 +1,9 @@
+[submodule "mt-data-processing"]
+	path = mt-data-processing
+	url = https://github.com/AfriNLP/mt-data-processing.git
+[submodule "mt-training"]
+	path = mt-training
+	url = https://github.com/AfriNLP/mt-training.git
+[submodule "mt-model-evaluation"]
+	path = mt-model-evaluation
+	url = https://github.com/AfriNLP/mt-model-evaluation.git
