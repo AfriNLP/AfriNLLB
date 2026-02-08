@@ -15,7 +15,7 @@ AfriNLLB: Efficient Translation Models for African Languages
 ## Citation
 
 ```
-@inproceedings{moslem-etal-2025-afrinllb,
+@inproceedings{moslem-etal-2026-afrinllb,
     title = "{A}fri{NLLB}: Efficient Translation Models for African Languages",
     author = "Moslem, Yasmin  and
       Wassie, Aman Kassahun  and
