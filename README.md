@@ -22,7 +22,7 @@ AfriNLLB: Efficient Translation Models for African Languages
       Gizachew, Amanuel",
     booktitle = "Proceedings of the Seventh Workshop on African Natural Language Processing (AfricaNLP)",
     month = jul,
-    year = "2025",
+    year = "2026",
     address = "Rabat, Morocco",
     publisher = "Association for Computational Linguistics",
 }
