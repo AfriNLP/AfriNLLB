@@ -15,7 +15,7 @@ jobs:
           submodules: recursive
 
       - name: Update submodules to latest
-        run: git submodule update --remote --merge
+        run: git submodule update --remote
 
       - name: Commit and push if changed
         run: |
