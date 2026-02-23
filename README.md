@@ -14,6 +14,8 @@ AfriNLLB: Efficient Translation Models for African Languages
 
 ## Citation
 
+If you use any part of the AfriNLLB project's code, data, models, or approaches, please cite the following paper:
+
 ```
 @inproceedings{moslem-etal-2026-afrinllb,
     title = "{A}fri{NLLB}: Efficient Translation Models for African Languages",
