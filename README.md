@@ -28,6 +28,7 @@ If you use any part of the AfriNLLB project's code, data, models, or approaches,
     year = "2026",
     address = "Rabat, Morocco",
     publisher = "Association for Computational Linguistics",
+    url = "https://openreview.net/forum?id=hVJZNUZBur",
 }
 ```
 
