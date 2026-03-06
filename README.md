@@ -6,6 +6,7 @@ AfriNLLB: Efficient Translation Models for African Languages
 - [mt-data-processing](https://github.com/AfriNLP/mt-data-processing)
 - [mt-training](https://github.com/AfriNLP/mt-training)
 - [mt-model-evaluation](https://github.com/AfriNLP/mt-model-evaluation)
+- [model-compression](https://github.com/ymoslem/Model-Compression)
 
 ## Models and Datasets
 
@@ -23,7 +24,7 @@ If you use any part of the AfriNLLB project's code, data, models, or approaches,
       Wassie, Aman Kassahun  and
       Gizachew, Amanuel",
     booktitle = "Proceedings of the Seventh Workshop on African Natural Language Processing (AfricaNLP)",
-    month = jul,
+    month = mar,
     year = "2026",
     address = "Rabat, Morocco",
     publisher = "Association for Computational Linguistics",
